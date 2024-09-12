@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Defines main module"""
+"""Defines main module."""
 
 import requests
 
